@@ -1,5 +1,5 @@
 import React from "react";
-import painel from "../assets/images/painel.webp";
+import painel from "../assets/images/painel.png";
 import border from "../assets/images/traced-border@2x-AJ4X7YYM.png";
 
 export default function SectionHeader() {
@@ -10,29 +10,29 @@ export default function SectionHeader() {
           <div className="sm:rounded-2xl h-full w-full lg:w-auto ">
             <div className="relative flex flex-col items-center pt-0 py-8 sm:py-12 lg:py-16 lg:items-start">
               <h1 className="max-w-[590px] text-base-text text-3xl font-semibold md:leading-[64px] text-center tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl AllianceNo2">
-                Controle financeiro pessoal com toda a{" "}
+                Chega de planilhas complicadas! controle seu dinheiro de forma{" "}
                 <div className="inline-block relative z-10">
                   <span className="text-transparent bg-clip-text z-20 bg-[#129E3F] ">
-                    praticidade
+                    prática e inteligente
                   </span>
                   <img
                     alt="separator"
-                    className="absolute -left-1.5 -right-1 -bottom-[2px] -z-10 hidden md:flex"
+                    className="absolute -left-1.5 -right-1 -bottom-[2px] -z-10 hidden md:flex w-full"
                     src={border}
                   />
                 </div>{" "}
-                que a planilha não te oferece
+                com o Planno
               </h1>
               <p className="mt-6 mb-8 max-w-[400px] text-base font-serif text-center font-light text-[#454843] lg:text-left lg:mx-0 lg:max-w-[520px] AllianceNo2">
-                Organize seu dinheiro em tempo real em uma solução completa,
-                prática e segura. Tenha o controle de finanças que você sempre
-                quis!
+                Gerencie seu dinheiro em tempo real com uma solução completa,
+                fácil de usar e 100% segura. Tenha, de verdade o controle
+                financeiro que sempre buscou!
               </p>
               <a
                 className="rounded-lg text-base tracking-tig transition-colors ease-in-out duration-300 select-none inline-flex justify-center items-center drop-shadow-green-button-drop-shadow font-serif text-white font-semibold py-2 pl-6 pr-2 bg-[#129E3F] hover:bg-[#006A33] AllianceNo2"
                 href="https://play.google.com/store/apps/details?id=br.com.breaklabs.plano&pli=1"
               >
-                Teste gratuitamente
+                Baixe Gratuitamente!
                 <div className="ml-4 bg-[#0D772F] rounded-md w-10 h-10 inline-flex justify-center items-center">
                   <img
                     src="/arrow-right.svg"

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import logo from "../assets/images/logo.png";
+import logo from "../assets/images/logo-AQ2YPMYN.png";
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -40,7 +40,7 @@ export default function Header() {
               <a href="/">
                 <span className="sr-only">Organizze</span>
                 <img
-                  className="h-16 sm:h-18 md:h-20 w-auto max-w-[160px]"
+                  className="h-16 sm:h-18 md:h-20 w-auto"
                   src={logo}
                   alt="Logo Organizze"
                 />
