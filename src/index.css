@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.AllianceNo1 {
+  font-family: 'Alliance No.1', sans-serif;
+}
+
+.AllianceNo2 {
+  font-family: 'Alliance No.2', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
