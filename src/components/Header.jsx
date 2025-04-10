@@ -40,7 +40,7 @@ export default function Header() {
               <a href="/">
                 <span className="sr-only">Organizze</span>
                 <img
-                  className="h-16 sm:h-18 md:h-20 w-auto"
+                  className="h-16 sm:h-18 md:h-20"
                   src={logo}
                   alt="Logo Organizze"
                 />
@@ -94,7 +94,7 @@ export default function Header() {
         <div className="rounded-lg shadow-lg  bg-[#FEFDF9] ">
           <div className="">
             <div className="flex items-center justify-between">
-              <img width="50" className="m-3" src={logo} alt="Logo" />
+              <img width="200" className="m-3" src={logo} alt="Logo" />
               <button
                 id="close-top-navigation-mobile"
                 className=" rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100"
