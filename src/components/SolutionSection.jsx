@@ -1,30 +1,30 @@
-import selectionSolution from "../assets/images/selectionSolution.webp"
+import selectionSolution from "../assets/images/plano.png"
 
 export default function SolutionHeader() {
   const steps = [
     {
       number: "01",
-      title: "Suas contas e cartões num só lugar",
+      title: "Todas as suas contas e cartões reunidos em um só lugar",
       description:
-        "Comece cadastrando suas contas e cartões para ter uma visão mais clara do controle de finanças.",
+        "Cadastre suas contas e cartões e tenha uma visão completa da sua vida financeira, sem complicação.",
     },
     {
       number: "02",
-      title: "Cadastre todos os seus gastos",
+      title: "Registre seus gastos e tenha tudo sob controle",
       description:
-        "Mantenha tudo sob controle cadastrando suas contas e despesas organizadas por categorias.",
+        "Organize suas despesas por categorias e acompanhe de perto para onde seu dinheiro está indo.",
     },
     {
       number: "03",
-      title: "Saiba o destino de cada centavo",
+      title: "Diga adeus aos gastos fora de controle.",
       description:
-        "Informe sua renda e ganhos extras para ter previsibilidade financeira e tomar decisões inteligentes.",
+        "Registre sua renda e ganhos extras para tomar decisões financeiras com mais inteligência e segurança.",
     },
     {
       number: "04",
-      title: "Transforme controle financeiro em hábito",
+      title: "Torne o controle financeiro parte da sua rotina.",
       description:
-        "Lance os gastos do dia a dia, acompanhe os relatórios e assuma o total controle das finanças.",
+        "Registre seus gastos diários, acompanhe relatórios e conquiste o controle total do seu dinheiro.",
     },
   ];
   return (
@@ -33,7 +33,7 @@ export default function SolutionHeader() {
       <div className="max-w-[1224px] m-auto flex flex-col items-start lg:flex-row relative">
         <div className="hidden w-1/2 lg:flex">
           <img
-            className="object-cover w-[100%]"
+            className="object-cover w-[80%]"
             src={selectionSolution}
             alt="Imagem do Organizze, um app para controle financeiro pessoal, sendo exibido na tela de um celular"
           />
@@ -43,8 +43,7 @@ export default function SolutionHeader() {
             Organize suas finanças
           </p>
           <h2 className="text-3xl md:text-5xl font-bold text-base-text text-left tracking-wide AllianceNo1">
-            A solução para um controle <br />
-            financeiro de sucesso
+          Sua jornada rumo ao <p className="text-[#3DB673]">controle financeiro</p>começa aqui.
           </h2>
           <div className="w-full mt-10 mb-10 grid grid-cols-1 sm:grid-cols-2 gap-y-10 gap-x-10 md:gap-y-8 md:gap-x-14">
             {steps.map((step, index) => (

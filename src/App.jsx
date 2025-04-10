@@ -13,7 +13,6 @@ function App() {
     <>
       <Header />
       <SectionHeader />
-      <Midias />
       <SolutionHeader />
       <SectionControle />
       <Footer />

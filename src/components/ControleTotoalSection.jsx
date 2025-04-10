@@ -20,7 +20,8 @@ export default function SectionControle() {
     <h2
       className="font-bold max-w-[375px] text-3xl leading-10 text-base-text text-center m-auto md:max-w-[575px] md:text-5xl AllianceNo2"
     >
-      Entenda por que controlar suas finanças com a Organizze
+     Entenda como o Planno pode transformar
+     sua vida financeira
     </h2>
     <div
       className="mt-10 md:mt-16 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 items-baseline justify-center gap-x-10 gap-y-10 lg:gap-x-24 lg:gap-y-20"
@@ -64,14 +65,12 @@ export default function SectionControle() {
           <h3
             className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text AllianceNo1"
           >
-            Seu futuro mais seguro
+            🎯 Objetivos que motivam você
           </h3>
           <p
             className="mt-2 lg:max-w-[328px] font-serif text-base leading-6 text-[#454843] AllianceNo1"
           >
-            Com seu dinheiro organizado fica muito mais fácil planejar o
-            futuro. Para te ajudar, o Organizze te mostra previsões valiosas
-            das suas finanças.
+           Economize para seus sonhos: uma viagem, um carro, um novo projeto. O Planno te ajuda a acompanhar seu progresso passo a passo.
           </p>
         </div>
       </div>
@@ -122,14 +121,12 @@ export default function SectionControle() {
           <h3
             className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text AllianceNo1"
           >
-            Economize tempo e dinheiro
+           📅 Lembretes de contas e pagamentos
           </h3>
           <p
             className="mt-2 lg:max-w-[328px] font-serif text-base leading-6 text-[#454843] AllianceNo1"
           >
-            Concentre suas informações financeiras em um único app, e não
-            perca tempo abrindo todos os aplicativos de banco para checar
-            seus gastos.
+            Evite atrasos e juros desnecessários. Receba alertas no momento certo e mantenha sua vida financeira em dia.
           </p>
         </div>
       </div>
@@ -172,14 +169,12 @@ export default function SectionControle() {
           <h3
             className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text AllianceNo1"
           >
-            Previsibilidade garantida
+           💸 Controle total dos seus gastos
           </h3>
           <p
             className="mt-2 lg:max-w-[328px] font-serif text-base leading-6 text-[#454843] AllianceNo1"
           >
-            As faturas de todos os seus cartões de crédito reunidas em um
-            lugar só! Já imaginou? Tudo para garantir a previsibilidade que
-            você precisa.
+           Registre suas despesas por categoria e acompanhe para onde seu dinheiro está indo — tudo de forma simples e rápida.
           </p>
         </div>
       </div>
@@ -222,14 +217,12 @@ export default function SectionControle() {
           <h3
             className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text AllianceNo1"
           >
-            Simples de usar
+            📱 Acesso fácil, de qualquer lugar
           </h3>
           <p
             className="mt-2 lg:max-w-[328px] font-serif text-base leading-6 text-[#454843] AllianceNo1"
           >
-            O sistema foi desenhado para ser intuitivo e tornar sua
-            experiência cada vez mais natural. Em pouco tempo você consegue
-            fazer um controle incrível do seu dinheiro!
+            Use o Planno no seu celular ou tablet, com sincronização entre dispositivos. Tenha suas finanças na palma da mão, sempre.
           </p>
         </div>
       </div>
@@ -272,14 +265,12 @@ export default function SectionControle() {
           <h3
             className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text AllianceNo1"
           >
-            Controle financeiro sem anúncios
+            🆓 Gratuito e sem anúncios
           </h3>
           <p
             className="mt-2 lg:max-w-[328px] font-serif text-base leading-6 text-[#454843] AllianceNo1"
           >
-            Aqui você pode focar no que realmente importa: Sua organização
-            financeira. Não te distraímos com propagandas ou ofertas de
-            serviço de terceiros dentro do app.
+            Aqui, sua experiência vem em primeiro lugar. Use o Planno gratuitamente, sem interrupções e sem anúncios. Foque no que importa: sua vida financeira.
           </p>
         </div>
       </div>
@@ -334,14 +325,12 @@ export default function SectionControle() {
           <h3
             className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text AllianceNo1"
           >
-            Suporte que funciona
+            💬 Suporte humano, de verdade
           </h3>
           <p
             className="mt-2 lg:max-w-[328px] font-serif text-base leading-6 text-[#454843] AllianceNo1"
           >
-            Dúvidas? Sugestões? Nosso suporte gente boa ajuda você! A gente
-            tá aqui para resolver seus problemas e deixar sua vida mais
-            tranquila.
+            Esqueça respostas automáticas e filas sem fim. No Planno, você conta com um time real, pronto para te ajudar com agilidade e atenção — sempre que precisar.
           </p>
         </div>
       </div>

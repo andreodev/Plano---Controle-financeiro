@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import logo from "../assets/images/logo-AQ2YPMYN.png";
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -41,7 +40,7 @@ export default function Header() {
                 <span className="sr-only">Organizze</span>
                 <img
                   className="h-16 sm:h-18 md:h-20"
-                  src={logo}
+                  src="/planoLogo.svg"
                   alt="Logo Organizze"
                 />
               </a>
@@ -93,8 +92,8 @@ export default function Header() {
       >
         <div className="rounded-lg shadow-lg  bg-[#FEFDF9] ">
           <div className="">
-            <div className="flex items-center justify-between">
-              <img width="200" className="m-3" src={logo} alt="Logo" />
+            <div className="flex items-center justify-center">
+              <img width="200" className="m-3" src="/planoLogo.svg" alt="Logo" />
               <button
                 id="close-top-navigation-mobile"
                 className=" rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100"
