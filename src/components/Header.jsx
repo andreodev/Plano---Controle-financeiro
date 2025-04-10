@@ -3,7 +3,7 @@ import logo from "../assets/images/logo.png";
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  
+
   // navbar
   // const links = [
   //   { label: "Início", href: "/" },
@@ -40,7 +40,7 @@ export default function Header() {
               <a href="/">
                 <span className="sr-only">Organizze</span>
                 <img
-                  className="flex h-20   w-full lg:h-18 sm:h-18 "
+                  className="h-16 sm:h-18 md:h-20 w-auto max-w-[160px]"
                   src={logo}
                   alt="Logo Organizze"
                 />
