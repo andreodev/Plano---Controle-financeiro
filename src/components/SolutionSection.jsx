@@ -1,4 +1,4 @@
-import selectionSolution from "../assets/images/se"
+import selectionSolution from "../assets/images/selectionSolution.webp"
 
 export default function SolutionHeader() {
   return (
