@@ -2,7 +2,7 @@ import React from "react";
 import painel from "../assets/images/painel.webp";
 import border from "../assets/images/traced-border@2x-AJ4X7YYM.png";
 
-export default function Main() {
+export default function SectionHeader() {
   return (
     <>
       <section className="w-full px-[1rem] sm:px-[2rem] lg:pr-0 xl:px-0 overflow-hidden bg-[#EDFDF2]">

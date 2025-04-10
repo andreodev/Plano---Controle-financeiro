@@ -1,16 +1,18 @@
 import './App.css'
 import "./assets/fonts/fonts.css"
 import Header from './components/Header'
-import Main from './components/Main'
+import SectionHeader from './components/SectionHeader'
 import Midias from './components/Section'
+import SolutionHeader from './components/SolutionSection'
 
 function App() {
 
   return (
     <>
       <Header />
-      <Main />
+      <SectionHeader />
       <Midias />
+      <SolutionHeader />
     </>
   )
 }
