@@ -10,7 +10,7 @@ export default function Main() {
           <div className="sm:rounded-2xl h-full w-full lg:w-auto ">
             <div className="relative flex flex-col items-center pt-0 py-8 sm:py-12 lg:py-16 lg:items-start">
               <h1 className="max-w-[590px] text-base-text text-3xl font-semibold md:leading-[64px] text-center tracking-tight sm:text-5xl lg:max-w-[460px] lg:text-5xl lg:text-left lg:m-0 xl:max-w-[550px] xl:text-6xl AllianceNo2">
-                Controle financeiro pessoal com toda a
+                Controle financeiro pessoal com toda a{" "}
                 <div className="inline-block relative z-10">
                   <span className="text-transparent bg-clip-text z-20 bg-[#129E3F] ">
                     praticidade
