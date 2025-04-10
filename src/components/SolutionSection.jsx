@@ -1,4 +1,4 @@
-import selectionSolution from "../assets/images/sectionSolution.png"
+import selectionSolution from "../assets/images/se"
 
 export default function SolutionHeader() {
   return (

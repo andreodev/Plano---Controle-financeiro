@@ -170,7 +170,7 @@ export default function SectionControle() {
         </div>
         <div className="mt-4 ml-4 sm:ml-0">
           <h3
-            className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text"
+            className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text AllianceNo1"
           >
             Previsibilidade garantida
           </h3>
@@ -220,7 +220,7 @@ export default function SectionControle() {
         </div>
         <div className="mt-4 ml-4 sm:ml-0">
           <h3
-            className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text"
+            className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text AllianceNo1"
           >
             Simples de usar
           </h3>
