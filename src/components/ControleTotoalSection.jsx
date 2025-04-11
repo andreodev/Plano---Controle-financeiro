@@ -12,11 +12,6 @@ export default function SectionControle() {
     className="py-12 lg:py-20 lg:pb-28 padding-x-all-sections bg-[#FBF7EA]"
 >
   <div className="max-w-[1224px] mx-auto lg:max-w-7xl">
-    <p
-      className="mb-3 text-base text-center font-serif leading-4 text-[#454843] AllianceNo1"
-    >
-      Controle total
-    </p>
     <h2
       className="font-bold max-w-[375px] text-3xl leading-10 text-base-text text-center m-auto md:max-w-[575px] md:text-5xl AllianceNo2"
     >
@@ -65,7 +60,7 @@ export default function SectionControle() {
           <h3
             className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text AllianceNo1"
           >
-            🎯 Objetivos que motivam você
+             Objetivos que motivam você
           </h3>
           <p
             className="mt-2 lg:max-w-[328px] font-serif text-base leading-6 text-[#454843] AllianceNo1"
@@ -121,7 +116,7 @@ export default function SectionControle() {
           <h3
             className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text AllianceNo1"
           >
-           📅 Lembretes de contas e pagamentos
+            Lembretes de contas e pagamentos
           </h3>
           <p
             className="mt-2 lg:max-w-[328px] font-serif text-base leading-6 text-[#454843] AllianceNo1"
@@ -169,7 +164,7 @@ export default function SectionControle() {
           <h3
             className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text AllianceNo1"
           >
-           💸 Controle total dos seus gastos
+            Controle total dos seus gastos
           </h3>
           <p
             className="mt-2 lg:max-w-[328px] font-serif text-base leading-6 text-[#454843] AllianceNo1"
@@ -217,7 +212,7 @@ export default function SectionControle() {
           <h3
             className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text AllianceNo1"
           >
-            📱 Acesso fácil, de qualquer lugar
+             Acesso fácil, de qualquer lugar
           </h3>
           <p
             className="mt-2 lg:max-w-[328px] font-serif text-base leading-6 text-[#454843] AllianceNo1"
@@ -265,7 +260,7 @@ export default function SectionControle() {
           <h3
             className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text AllianceNo1"
           >
-            🆓 Gratuito e sem anúncios
+             Gratuito e sem anúncios
           </h3>
           <p
             className="mt-2 lg:max-w-[328px] font-serif text-base leading-6 text-[#454843] AllianceNo1"
@@ -325,7 +320,7 @@ export default function SectionControle() {
           <h3
             className="font-semibold font-serif text-lg sm:text-xl leading-6 text-base-text AllianceNo1"
           >
-            💬 Suporte humano, de verdade
+             Suporte humano, de verdade
           </h3>
           <p
             className="mt-2 lg:max-w-[328px] font-serif text-base leading-6 text-[#454843] AllianceNo1"
