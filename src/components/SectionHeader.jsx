@@ -28,19 +28,38 @@ export default function SectionHeader() {
                 fácil de usar e 100% segura. Tenha, de verdade o controle
                 financeiro que sempre buscou!
               </p>
+              <div className="flex flex-col sm:flex-row gap-4">
               <a
-                className="rounded-lg text-base tracking-tig transition-colors ease-in-out duration-300 select-none inline-flex justify-center items-center drop-shadow-green-button-drop-shadow font-serif text-white font-semibold py-2 pl-6 pr-2 bg-[#129E3F] hover:bg-[#006A33] AllianceNo2"
-                href="https://play.google.com/store/apps/details?id=br.com.breaklabs.plano&pli=1"
-              >
-                Baixe Gratuitamente!
-                <div className="ml-4 bg-[#0D772F] rounded-md w-10 h-10 inline-flex justify-center items-center">
-                  <img
-                    src="/arrow-right.svg"
-                    alt="icon button"
-                    className="text-[#FBF7EA] w-6 h-6"
-                  />
-                </div>
-              </a>
+  href="https://play.google.com/store/apps/details?id=com.planno.app"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center justify-center rounded-lg bg-black text-white px-6 py-3 hover:bg-gray-800 transition-colors"
+>
+  <svg
+    className="w-6 h-6 mr-2"
+    viewBox="0 0 24 24"
+    fill="currentColor"
+  >
+    <path d="M3.063 3.627l1.676 11.162 7.898 4.314c.39.213.85.213 1.24 0l7.89-4.314 1.68-11.162H3.063zm12.22 11.83l-2.97 1.623-2.64-1.443v-9.4l5.61 9.22zm-8.08-9.4v9.4l-2.64 1.443-2.97-1.623 5.61-9.22zm-.56-1.44h12.75L12 6.103 6.637 4.617z"/>
+  </svg>
+  Google Play
+</a>
+                <a
+                  href="https://apps.apple.com/br/app/planno/id123456789"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center justify-center rounded-lg bg-black text-white px-6 py-3 hover:bg-gray-800 transition-colors"
+                >
+                  <svg
+                    className="w-6 h-6 mr-2"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                  >
+                    <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z" />
+                  </svg>
+                  App Store
+                </a>
+              </div>
               <div className="mt-9 flex flex-col justify-start xl:space-x-4 xl:flex-row">
                 <div className="flex items-center w-64 lg:w-72 h-20">
                   <svg

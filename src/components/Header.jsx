@@ -72,7 +72,7 @@ export default function Header() {
             <div className="hidden lg:flex items-center justify-end md:flex-1 lg:w-0">
               <a
                 className="rounded-lg text-base tracking-tig transition-colors font-serif ease-in-out duration-300 select-none inline-flex min-w-fit items-center ml-8 z-20 text-[#FBF7EA] font-semibold py-3 px-6 bg-[#129E3F] hover:bg-[#006A33] AllianceNo1"
-                href="https://play.google.com/store/apps/details?id=br.com.breaklabs.plano&pli=1"
+                href="https://linktr.ee/planofinancaspessoais?fbclid=PAZXh0bgNhZW0CMTEAAae0rVb_ZMPKVFh64m5St-rmEf1R_2NhsxMFWt-oyMF4jYQX3BYpzAxGtTLRGg_aem_vN0tMBpUaep7nAjtcc63cg"
               >
                 Comece já!
               </a>
@@ -121,7 +121,7 @@ export default function Header() {
             <div className="mt-6">
               <a
                 className="w-full flex items-center justify-center bg-[#14A35B] px-4 py-2 rounded-md shadow-sm text-base font-medium text-white hover:bg-[#0F7641]"
-                href="https://play.google.com/store/apps/details?id=br.com.breaklabs.plano&pli=1"
+                href="https://linktr.ee/planofinancaspessoais?fbclid=PAZXh0bgNhZW0CMTEAAae0rVb_ZMPKVFh64m5St-rmEf1R_2NhsxMFWt-oyMF4jYQX3BYpzAxGtTLRGg_aem_vN0tMBpUaep7nAjtcc63cg"
               >
                 Comece já
               </a>

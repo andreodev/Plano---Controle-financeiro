@@ -39,9 +39,6 @@ export default function SolutionHeader() {
           />
         </div>
         <div className="md:mt-6 flex flex-col items-center lg:items-start w-full lg:w-auto">
-          <p className="mb-2 md:mb-4 font-light font-serif text-center text-base md:text-lg text-[#5C5F5A] AllianceNo1">
-            Organize suas finanças
-          </p>
           <h2 className="text-3xl md:text-5xl font-bold text-base-text text-left tracking-wide AllianceNo1">
           Sua jornada rumo ao <p className="text-[#3DB673]">controle financeiro</p>começa aqui.
           </h2>
