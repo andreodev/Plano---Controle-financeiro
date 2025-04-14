@@ -5,7 +5,7 @@ export default function Footer() {
     {
       name: "Instagram",
       href: "https://www.instagram.com/planofinancaspessoais",
-      icon: "/instagram.svg",
+      icon: "/instagram.svg", 
     },
   ];
 
@@ -61,13 +61,13 @@ export default function Footer() {
               <div className="flex flex-col items-center lg:flex-row lg:space-x-6">
                 <a
                   className="text-sm leading-6 font-serif text-[#454843] mt-2 lg:mt-0 AllianceNo2"
-                  href="/politicas-de-privacidade"
+                  href="https://termos-de-uso-one.vercel.app/"
                 >
                   Política de Privacidade
                 </a>
                 <a
                   className="text-sm leading-6 font-serif text-[#454843] mt-2 lg:mt-0 AllianceNo2"
-                  href="/termos-de-uso"
+                  href="https://termos-de-uso-one.vercel.app/"
                 >
                   Termos de Serviço
                 </a>
