@@ -45,7 +45,7 @@ export default function SectionHeader() {
   Google Play
 </a>
                 <a
-                  href="https://apps.apple.com/br/app/planno/id123456789"
+                  href="https://apps.apple.com/br/app/planno/id6744568188?l=en-GB"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center rounded-lg bg-black text-white px-6 py-3 hover:bg-gray-800 transition-colors"
